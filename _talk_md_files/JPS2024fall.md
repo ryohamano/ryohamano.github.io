@@ -1,9 +1,9 @@
 ---
-title: "—§•ûŠiqã‚Ì‹ß“¡Šiq–ÍŒ^‚É‚¨‚¯‚éŒõ—U‹N¥‹C“]ˆÚ‚Ì—˜_"
+title: "ç«‹æ–¹æ ¼å­ä¸Šã®è¿‘è—¤æ ¼å­æ¨¡å‹ã«ãŠã‘ã‚‹å…‰èª˜èµ·ç£æ°—è»¢ç§»ã®ç†è«–"
 collection: talk_md_files
 category: "oral"
 permalink: /talk_md_files/JPS2024fall
-venue: "“ú–{•¨—Šw‰ï ‘æ79‰ñ”NŸ‘å‰ïi2024”Nj"
+venue: "æ—¥æœ¬ç‰©ç†å­¦ä¼š ç¬¬79å›å¹´æ¬¡å¤§ä¼šï¼ˆ2024å¹´ï¼‰"
 date: September 16 2024
 location: "Hokkaido University, Japan"
 ---

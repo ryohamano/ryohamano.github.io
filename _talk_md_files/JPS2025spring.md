@@ -1,9 +1,9 @@
 ---
-title: "3ŸŒ³‹ß“¡Šiq–ÍŒ^‚É‚¨‚¯‚éŒõ—U‹N¥‹C‘Š“]ˆÚ‚Ì”÷‹“I‹@\‚Ì—˜_"
+title: "3æ¬¡å…ƒè¿‘è—¤æ ¼å­æ¨¡å‹ã«ãŠã‘ã‚‹å…‰èª˜èµ·ç£æ°—ç›¸è»¢ç§»ã®å¾®è¦–çš„æ©Ÿæ§‹ã®ç†è«–"
 collection: talk_md_files
 category: "oral"
 permalink: /talk_md_files/JPS2025spring
-venue: "“ú–{•¨—Šw‰ï 2025”Nt‹G‘å‰ï"
+venue: "æ—¥æœ¬ç‰©ç†å­¦ä¼š 2025å¹´æ˜¥å­£å¤§ä¼š"
 date: March 18 2025
 location: "Online"
 ---
