@@ -1,7 +1,7 @@
 ---
 title: "Theoretical Study of the Photo-Induced Magnetic Transition in the Kondo Lattice Model"
 collection: talks
-category: "Poster presentation"
+category: "poster"
 permalink: /talks/Tanabe-Sugano70
 venue: "70 years of the Tanabe-Sugano diagrams,"
 date: September 10 2024

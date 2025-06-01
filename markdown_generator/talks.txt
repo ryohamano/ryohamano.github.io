@@ -1,3 +1,3 @@
 title	category	url_slug	venue	date	location	talk_url	description
-Theoretical Study of the Photo-Induced Magnetic Transition in the Kondo Lattice Model	Poster presentation	JKT22	The 22nd Japan-Korea-Taiwan Symposium on Strongly Correlated Electron Systems	March 15 2024	"Kagoshima University, Japan"	https://okuda812.wixsite.com/jkt22	
-Theoretical Study of the Photo-Induced Magnetic Transition in the Kondo Lattice Model	Poster presentation	Tanabe-Sugano70	"70 years of the Tanabe-Sugano diagrams,"	September 10 2024	"Shinjuku, Japan"	https://sites.google.com/view/70years-of-tanabe-sugano/home	
+Theoretical Study of the Photo-Induced Magnetic Transition in the Kondo Lattice Model	poster	JKT22	The 22nd Japan-Korea-Taiwan Symposium on Strongly Correlated Electron Systems	March 15 2024	"Kagoshima University, Japan"	https://okuda812.wixsite.com/jkt22	
+Theoretical Study of the Photo-Induced Magnetic Transition in the Kondo Lattice Model	poster	Tanabe-Sugano70	"70 years of the Tanabe-Sugano diagrams,"	September 10 2024	"Shinjuku, Japan"	https://sites.google.com/view/70years-of-tanabe-sugano/home	
