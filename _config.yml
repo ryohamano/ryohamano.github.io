@@ -221,13 +221,13 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  publication_md_files:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  talk_md_files:
     output: false
     permalink: /:collection/:path/
 
@@ -280,13 +280,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 
 # Sass/SCSS
