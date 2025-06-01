@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ryo Hamano is a second year Masters student in [Mochizuki group](https://mochizuki.w.waseda.jp/)
+Ryo Hamano is a second year Masters student in [Mochizuki group](https://mochizuki.w.waseda.jp/), Department of Pure and Applied Physics, [Graduate School of Advanced Science and Engineering](https://www.ase.sci.waseda.ac.jp/english/departments/), [Waseda University](https://www.waseda.jp/top/en/).
 
 早稲田大学 先進理工学研究科 物理学及応用物理学専攻 [望月研究室](https://mochizuki.w.waseda.jp/) 修士２年の濱野遼宇です． 
 物性理論、特に光誘起磁気現象に興味を持ち研究を行っています。
