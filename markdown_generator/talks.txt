@@ -1,0 +1,2 @@
+title	type	url_slug	venue	date	location	talk_url	description
+Photoinduced magnetic phase transitions in the cubic Kondo lattice model	Poster presentation	JKT22	The 22nd Japan-Korea-Taiwan Symposium on Strongly Correlated Electron Systems	March 15 2024	"Kagoshima University, Japan"	https://okuda812.wixsite.com/jkt22	
