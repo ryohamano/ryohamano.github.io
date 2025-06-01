@@ -23,7 +23,7 @@ redirect_from:
 
 最近の研究活動
 ======
-- Physical Review B 誌に投稿論文の掲載が決定しました．
+Physical Review B 誌に投稿論文の掲載が決定しました．
 **<u>R. Hamano</u>** and M. Mochizuki
 "Photoinduced magnetic phase transitions in the cubic Kondo-lattice model"
 DOI : [https://doi.org/10.1103/xvp4-sktr](https://doi.org/10.1103/xvp4-sktr), 
