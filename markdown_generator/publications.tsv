@@ -1,2 +1,2 @@
-pub_date	title	venue	category	excerpt	citation	url_slug	paper_url	slides_url
-2025-04-17	Photoinduced magnetic phase transitions in the cubic Kondo-lattice model	arXiv	preprint	This article is about the photoinduced magnetic phase transition that was theoretically predicted in a double exchange model.	R. Hamano, M. Mochizuki, (2025). "Photoinduced magnetic phase transitions in the cubic Kondo-lattice model" <i>arXiv</i>:2504.12881	RH_MM_PRB2025	https://arxiv.org/abs/2504.12881
+pub_date	url_slug	title	venue	category	citation	paper_url	abstract
+2025-04-17	RH_MM_PRB2025	Photoinduced magnetic phase transitions in the cubic Kondo-lattice model	arXiv	preprint	R. Hamano and M. Mochizuki, "Photoinduced magnetic phase transitions in the cubic Kondo-lattice model", <i>arXiv</i>:2504.12881 (2025)	https://arxiv.org/abs/2504.12881
