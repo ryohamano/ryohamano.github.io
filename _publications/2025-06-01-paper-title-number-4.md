@@ -2,8 +2,8 @@
 title: "Photoinduced magnetic phase transitions in the cubic lattice double-exchange model"
 collection: publications
 category: preprints
-permalink: /publication/2025-06-01-paper-RH_MM_PRB2025
-#excerpt: 'This paper is about fixing template issue #693.'
+permalink: /publication/2025-06-01-paper-title-number-4
+excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-04-17
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2504.12881'
