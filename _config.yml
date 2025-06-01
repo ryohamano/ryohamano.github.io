@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "ja"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ryo Hamano's Academic Page" # the title of your site, e.g. "Ryo Hamano's Academic Page"
 title_separator          : "-"
-name                     : &name "Ryo Hamano test"
-description              : &description "personal description"
+name                     : &name "Ryo Hamano"
+description              : &description "Researcher"
 url                      : https://ryohamano.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicp.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Ryo Hamano"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master's course student / Researcher in Waseda University, Japan"
   location         : "Tokyo, Japan" # e.g. "Tokyo, Japan"
   employer         : "Waseda University"
   uri              : # URL
