@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "ja"
+locale                   : "en"
 site_theme               : "default"
 title                    : "Ryo Hamano's Academic Page" # the title of your site, e.g. "Ryo Hamano's Academic Page"
 title_separator          : "-"
@@ -23,7 +23,6 @@ repository               : "https://github.com/ryohamano"
 author:
   # Biographic information
   avatar           : "profile.png"
-  janame           : "濱野 遼宇" # Your name, e.g. "Ryo Hamano"
   name             : "Ryo Hamano"
   pronouns         : # example: "she/her"  
   bio              : "Master's course student / Researcher"
