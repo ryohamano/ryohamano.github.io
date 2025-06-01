@@ -23,6 +23,7 @@ repository               : "academicpages/academicp.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
+  janame           : "濱野 遼宇" # Your name, e.g. "Ryo Hamano"
   name             : "Ryo Hamano"
   pronouns         : # example: "she/her"  
   bio              : "Master's course student / Researcher"
