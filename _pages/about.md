@@ -34,7 +34,7 @@ I aim to uncover the fundamental mechanisms of light-matter interactions that dr
 
 ### Recent Research Activities
 ------
-Our manuscript has been accepted for publication in Physical Review B.
+Our manuscript has been accepted for publication in Physical Review B.  
 Physical Review B 誌に投稿論文の掲載が決定しました．
 **<u>R. Hamano</u>** and M. Mochizuki
 "Photoinduced magnetic phase transitions in the cubic lattice double-exchange model"
