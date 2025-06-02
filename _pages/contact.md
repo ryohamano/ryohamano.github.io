@@ -16,5 +16,6 @@ Replace [!at!] to @.
 
 
 ### Address
-3-chōme-4 Ōkubo, Shinjuku City, Tokyo 169-0072  
+<i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i> 3-chōme-4 Ōkubo, Shinjuku City, Tokyo 169-0072
+
 Lab: 55N-03-04B
