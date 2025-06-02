@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ### Email
-ryohamamba71824[!aT!]fuji.waseda.jp
+<a><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a>
 
 ### Address
 3-chōme-4 Ōkubo, Shinjuku City, Tokyo 169-0072  
-Bldg
+Bldg. 55
