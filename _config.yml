@@ -276,7 +276,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: publication_md_files
     values:
       layout: single-publications
       author_profile: true
