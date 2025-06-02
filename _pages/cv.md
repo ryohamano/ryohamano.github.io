@@ -42,7 +42,7 @@ Work experience
   * Waseda University
   * April 2023 - December 2023
 
-* 大学１年生から現在まで継続して公文式教室でアルバイトを続けています。  Working part-time as a staff member of [Kumon](https://www.kumon.com/home) ( after school math, Japanese, and English learning program )
+* 大学１年生から現在まで継続して公文式教室でアルバイトを続けています。  Working part-time as a staff member of [Kumon](https://www.kumon.com/home) ( after school math, Japanese, and English learning program ) from March 2020 ~ .
 
 
 <!-- Publications
