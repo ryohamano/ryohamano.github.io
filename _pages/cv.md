@@ -18,22 +18,34 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Teaching Assistant ( Fortranプログラミング入門 )
+  * Waseda University
+  * April 2025 - July 2025
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Assistant ( En class: Introduction to C programming )
+  * Waseda University
+  * Ocober 2024 - March 2025
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant ( Cプログラミング入門 )
+  * Waseda University
+  * April 2024 - July 2024
 
-Publications
+* Teaching Assistant ( Cプログラミング )
+  * Waseda University
+  * October 2023 - March 2024
+
+* Teaching Assistant ( Cプログラミング入門 )
+  * Waseda University
+  * April 2023 - July 2023
+
+* Teaching Assistant ( 物理学ゼミナール )
+  * Waseda University
+  * April 2023 - December 2023
+
+* 大学１年生から現在まで継続して公文式教室でアルバイトを続けています。  Working part-time as a staff member of [Kumon](https://www.kumon.com/home) ( after school math, Japanese, and English learning program )
+
+
+<!-- Publications
 ======
   <ul>{% for post in site.publication_md_files reversed %}
     {% include archive-single-cv.html %}
@@ -43,4 +55,4 @@ Talks
 ======
   <ul>{% for post in site.talk_md_files reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
