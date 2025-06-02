@@ -11,7 +11,10 @@ redirect_from:
 
 Education
 ======
-* Bachelor of 
+* Bachelor of Science, Waseda University
+  * April 2020 - March 2024
+  * Director: Prof. Mochizuki
+  * Thesis: 近藤格子磁性体における光誘起磁気転移の理論研究　( Theoretical study of the photo-induced magnetic phase transition in the Kondo lattice magnet )
 
 Work experience
 ======
@@ -29,34 +32,15 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publication_md_files reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.talk_md_files reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
