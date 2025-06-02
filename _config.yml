@@ -22,7 +22,7 @@ repository               : "https://github.com/ryohamano"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_scene.jpg"
   name             : "Ryo Hamano"
   pronouns         : # example: "she/her"  
   bio              : "Master's student / Researcher"
