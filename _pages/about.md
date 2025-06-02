@@ -39,7 +39,7 @@ Physical Review B 誌に投稿論文の掲載が決定しました．
 **<u>R. Hamano</u>** and M. Mochizuki 
 "Photoinduced magnetic phase transitions in the cubic lattice double-exchange model"    
 DOI: [https://doi.org/10.1103/xvp4-sktr](https://doi.org/10.1103/xvp4-sktr), 
-Preprint: [arXiv:2504.12881](https://arxiv.org/abs/2504.12881)
+Preprint: <a href="https://arxiv.org/abs/2504.12881"><i class="ai ai-arxiv ai-fw icon-pad-right"> <!--[arXiv:2504.12881](https://arxiv.org/abs/2504.12881)-->
 
 ------
 

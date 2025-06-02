@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ### Email
-<a href="mailto:{{ site.author.email }}">
+Replace [!at!] to @.
+<a>
   <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
   {{ site.author.email }}
 </a>
