@@ -10,9 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ### Email
-Replace [!at!] to @.        
-<i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
-{{ site.author.email }}
+Replace [!at!] to @.
+
+<i class="fas fa-fw fa-envelope icon-pad-right"></i>{{ site.author.email }}
+
 
 ### Address
 3-chōme-4 Ōkubo, Shinjuku City, Tokyo 169-0072  
