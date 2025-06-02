@@ -13,4 +13,5 @@ redirect_from:
 ryohamamba71824[!aT!]fuji.waseda.jp
 
 ### Address
-3-chōme-4 Ōkubo, Shinjuku City, Tokyo 169-0072
+3-chōme-4 Ōkubo, Shinjuku City, Tokyo 169-0072  
+Bldg
