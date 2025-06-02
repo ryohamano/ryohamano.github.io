@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ------
-Hi! I am a second year Masters student in [Mochizuki group](https://mochizuki.w.waseda.jp/), Department of Pure and Applied Physics, [Graduate School of Advanced Science and Engineering](https://www.ase.sci.waseda.ac.jp/english/departments/), [Waseda University](https://www.waseda.jp/top/en/). I am conducting theoretical research in condensed matter physics, with a particular interest in photoinduced magnetic phenomena.
+Hi ! I am a second year Masters student in [Mochizuki group](https://mochizuki.w.waseda.jp/), Department of Pure and Applied Physics, [Graduate School of Advanced Science and Engineering](https://www.ase.sci.waseda.ac.jp/english/departments/), [Waseda University](https://www.waseda.jp/top/en/). I am conducting theoretical research in condensed matter physics, with a particular interest in photoinduced magnetic phenomena.
 My focus includes:
 
 - Linear and nonlinear magnetic responses under intense light irradiation
@@ -34,6 +34,7 @@ I aim to uncover the fundamental mechanisms of light-matter interactions that dr
 
 ### Recent Research Activities
 ------
+Our manuscript has been accepted for publication in Physical Review B.
 Physical Review B 誌に投稿論文の掲載が決定しました．
 **<u>R. Hamano</u>** and M. Mochizuki
 "Photoinduced magnetic phase transitions in the cubic lattice double-exchange model"

@@ -26,13 +26,13 @@ author:
   name             : "Ryo Hamano"
   pronouns         : # example: "she/her"  
   bio              : "Master's student / Researcher"
-  location         : "3-4-1 Okubo Shinjuku-ku, Tokyo 169-8555 Nishiwaseda campus Bldg. 55" # e.g. 〒169-8555　東京都新宿区大久保３丁目４−１  早稲田大学西早稲田キャンパス　55N-310B
+  location         : "3-chōme-4 Ōkubo, Shinjuku City, Tokyo 169-0072" # e.g. 〒169-8555　東京都新宿区大久保３丁目４−１  早稲田大学西早稲田キャンパス　55N-310B
   employer         : "Waseda University"
   uri              : # URL
   email            : "ryohamamba71824@fuji.waseda.jp" 
 
   # Academic websites
-  Mochizuki Group  : "https://mochizuki.w.waseda.jp/"
+  Mochizuki        : "https://mochizuki.w.waseda.jp/"
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=mur8xX0AAAAJ&view_op=list_works&gmla=AH8HC4xsy7Nvo2gnnEwxEezcKN6QL68UQuaUzhOSu2TQNQ8pyb84Umw3XdmCBMRBtRt4cffg560ZL850cmbVH1tN"
