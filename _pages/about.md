@@ -15,7 +15,7 @@ My focus includes:
 
 I aim to uncover the fundamental mechanisms of light-matter interactions that drive magnetic ordering and phase transitions in quantum materials.
 
-早稲田大学 先進理工学研究科 物理学及応用物理学専攻 望月研究室 修士２年の濱野遼宇です． 
+早稲田大学 先進理工学研究科 物理学及応用物理学専攻 望月研究室 修士２年の濱野 遼宇です． 
 物性理論、特に光誘起磁気現象に興味を持ち研究を行っています。
 
 - 強い光照射下での線形・非線形磁気応答特性
