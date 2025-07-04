@@ -42,7 +42,13 @@ Work experience
   * Waseda University
   * April 2023 - December 2023
 
-* Working part-time as a staff member of [Kumon](https://www.kumon.com/home) ( after school math, Japanese, and English learning program ) from March 2020 ~ .&nbsp; &nbsp;大学１年生から現在まで継続して公文式教室でアルバイトを続けています。  
+* Working part-time as a staff member of [Kumon](https://www.kumon.com/home) ( after school math, Japanese, and English learning program ) from March 2020 ~ .&nbsp; &nbsp;大学１年生から現在まで継続して公文式教室でアルバイトを続けています。
+
+Fellowships
+======
+* Okamoto Shigeharu \cdot Harue Scholorships（岡本重晴・晴江奨学金）
+  * Waseda University
+  * April 2025 - March 2026
 
 
 <!-- Publications
