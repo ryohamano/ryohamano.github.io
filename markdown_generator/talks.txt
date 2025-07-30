@@ -3,4 +3,4 @@ Theoretical Study of the Photo-Induced Magnetic Transition in the Kondo Lattice 
 Theoretical Study of the Photo-Induced Magnetic Transition in the Kondo Lattice Model	poster	Tanabe-Sugano70	"70 years of the Tanabe-Sugano diagrams,"	September 10 2024	"Shinjuku, Japan"	https://sites.google.com/view/70years-of-tanabe-sugano/home	
 立方格子上の近藤格子模型における光誘起磁気転移の理論	oral	JPS2024fall	日本物理学会 第79回年次大会（2024年）	September 16 2024	"Hokkaido University, Japan"	https://onsite.gakkai-web.net/jps/jps_search/2024au/index.html	
 3次元近藤格子模型における光誘起磁気相転移の微視的機構の理論	oral	JPS2025spring	日本物理学会	2025年春季大会	March 18 2025	Online	https://onsite.gakkai-web.net/jps/jps_search/2025sp/index.html
-立方格子上の近藤格子模型における光誘起磁気転移の理論	poster	summerschool2025	第70回物性若手夏の学校	August 2 2025	"Shiga, Japan"	https://cmpss.jp/   
+立方格子上の近藤格子模型における光誘起磁気転移の理論	poster	summerschool2025	第70回物性若手夏の学校	August 2 2025	"Shiga, Japan"	https://cmpss.jp/	
