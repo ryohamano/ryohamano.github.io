@@ -8,4 +8,4 @@ date: March 18 2025
 location: "Online"
 ---
 
-[More information here](https://onsite.gakkai-web.net/jps/jps_search/2025sp/index.html)
+[More information here]( https://onsite.gakkai-web.net/jps/jps_search/2025sp/index.html )
