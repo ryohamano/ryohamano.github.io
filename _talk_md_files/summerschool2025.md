@@ -8,4 +8,4 @@ date: August 2 2025
 location: "Shiga, Japan"
 ---
 
-[More information here](https://cmpss.jp/   )
+[More information here](https://cmpss.jp/)
