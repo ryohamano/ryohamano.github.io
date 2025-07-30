@@ -1,9 +1,9 @@
 ---
-title: "—§•ûŠiqã‚Ì‹ß“¡Šiq–ÍŒ^‚É‚¨‚¯‚éŒõ—U‹N¥‹C“]ˆÚ‚Ì—˜_"
+title: "ç«‹æ–¹æ ¼å­ä¸Šã®è¿‘è—¤æ ¼å­æ¨¡å‹ã«ãŠã‘ã‚‹å…‰èª˜èµ·ç£æ°—è»¢ç§»ã®ç†è«–"
 collection: talk_md_files
 category: "poster"
 permalink: /talk_md_files/summerschool2025
-venue: "‘æ70‰ñ•¨«áè‰Ä‚ÌŠwZ"
+venue: "ç¬¬70å›ç‰©æ€§è‹¥æ‰‹å¤ã®å­¦æ ¡"
 date: August 2 2025
 location: "Shiga, Japan"
 ---
