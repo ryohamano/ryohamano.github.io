@@ -33,9 +33,9 @@ I aim to uncover the fundamental mechanisms of light-matter interactions that dr
 
 ### Recent Research Activities
 ------
-I am joining the 70th Condensed Matter Physics summer school.
-第70回物性若手夏の学校に参加します。
-(2025/07/29-2025/08/02)
+I am joining the 70th Condensed Matter Physics summer school.   
+第70回物性若手夏の学校に参加します。   
+(2025/07/29-2025/08/02)   
 リンク: [https://cmpss.jp/](https://cmpss.jp/)
 
 ------
