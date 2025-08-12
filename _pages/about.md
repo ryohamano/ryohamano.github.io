@@ -5,6 +5,9 @@ title: "自己紹介"
 author_profile: true
 lang: ja
 en_permalink: /en/
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Hi ! I am a second year Masters student in [Mochizuki group](https://mochizuki.w.waseda.jp/), Department of Pure and Applied Physics, [Graduate School of Advanced Science and Engineering](https://www.ase.sci.waseda.ac.jp/english/departments/), [Waseda University](https://www.waseda.jp/top/en/). I am conducting theoretical research in condensed matter physics, with a particular interest in photoinduced magnetic phenomena.
