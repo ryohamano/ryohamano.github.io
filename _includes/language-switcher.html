@@ -10,7 +10,7 @@
 
 {% if is_ja %}
   {% assign target_url = page.en_permalink | default: '/en' | append: page.url %}
-  {% assign label = 'English' %}
+  {% assign label = 'English Version' %}
 {% elsif is_en %}
   {% assign target_url = page.ja_permalink | default: page.url | replace_first: '/en', '' %}
   {% assign label = '日本語' %}
@@ -19,7 +19,7 @@
   lang 指定が無い場合は英語サイト先頭へ
   {%- endcomment -%}
   {% assign target_url = '/en/' %}
-  {% assign label = 'English' %}
+  {% assign label = 'English Top Page' %}
 {% endif %}
 
 <div class="lang-switcher">
