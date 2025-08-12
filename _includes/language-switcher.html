@@ -11,7 +11,7 @@
 
 {% if page.lang == 'ja' %}
   {% assign target_url = page.en_permalink | default: '/en' | append: page.url %}
-  {% assign label = 'English Version' %}
+  {% assign label = 'English' %}
 {% elsif page.lang == 'en' %}
   {% assign target_url = page.ja_permalink | default: page.url | replace_first: '/en', '' %}
   {% assign label = '日本語' %}
