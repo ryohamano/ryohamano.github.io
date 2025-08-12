@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /en/cv/
 lang: en
 ja_permalink: /cv/
