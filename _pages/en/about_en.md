@@ -2,8 +2,8 @@
 layout: single
 title: "About me"
 permalink: /en/
-lang: en
-ja_permalink: /about/
+lang: ja
+ja_permalink:
 author_profile: true
 ---
 
