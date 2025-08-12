@@ -5,6 +5,9 @@ permalink: /en/
 lang: en
 ja_permalink: /
 author_profile: true
+redirect_from: 
+  - /en/about/
+  - /en/about.html
 ---
 
 Hi ! I am a second year Masters student in [Mochizuki group](https://mochizuki.w.waseda.jp/), Department of Pure and Applied Physics, [Graduate School of Advanced Science and Engineering](https://www.ase.sci.waseda.ac.jp/english/departments/), [Waseda University](https://www.waseda.jp/top/en/). I am conducting theoretical research in condensed matter physics, with a particular interest in photoinduced magnetic phenomena.
