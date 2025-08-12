@@ -3,15 +3,16 @@
 - 日本語ページには `lang: ja` と `en_permalink:` を設定
 - 英語ページには `lang: en` と `ja_permalink:` を設定
 - どちらかがない場合のフォールバック：/en + 現在URL、もしくは / へ
-{% endcomment %}
 
 {% assign is_ja = page.lang == 'ja' %}
 {% assign is_en = page.lang == 'en' %}
+{% endcomment %}
 
-{% if is_ja %}
+
+{% if page.lang == 'ja' %}
   {% assign target_url = page.en_permalink | default: '/en' | append: page.url %}
   {% assign label = 'English Version' %}
-{% elsif is_en %}
+{% elsif page.lang == 'en' %}
   {% assign target_url = page.ja_permalink | default: page.url | replace_first: '/en', '' %}
   {% assign label = '日本語' %}
 {% else %}
@@ -19,7 +20,7 @@
   lang 指定が無い場合は英語サイト先頭へ
   {%- endcomment -%}
   {% assign target_url = '/en/' %}
-  {% assign label = 'English Top Page' %}
+  {% assign label = 'Ryo Hamano's Top Page' %}
 {% endif %}
 
 <div class="lang-switcher">
