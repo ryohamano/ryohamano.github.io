@@ -34,7 +34,7 @@ I aim to uncover the fundamental mechanisms of light-matter interactions that dr
 ### Recent Research Activities
 
 ------
-I will give an oral presentation at the 80th Annual Meeting of the Physical Society of Japan (Hiroshima University) in 2025.     
+I will give an oral presentation at the 80th Annual Meeting of the Physical Society of Japan (Hiroshima University).     
 日本物理学会第80回年次大会（広島大学）で口頭発表を行う予定     
 Date: 2025/09/18    
 Link: [https://www.jps.or.jp/](https://www.jps.or.jp/)
