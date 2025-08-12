@@ -4,7 +4,7 @@ permalink: /
 title: "自己紹介"
 author_profile: true
 lang: ja
-en_permalink: /en/
+en_permalink: /en/about/
 redirect_from: 
   - /about/
   - /about.html
