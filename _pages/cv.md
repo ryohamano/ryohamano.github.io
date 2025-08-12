@@ -9,46 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+経歴
 ======
-* Bachelor of Science, Waseda University
-  * April 2020 - March 2024
-  * Director: Prof. Mochizuki
-  * Thesis: 近藤格子磁性体における光誘起磁気転移の理論研究　( Theoretical study of the photo-induced magnetic phase transition in the Kondo lattice magnet )
+* 学士（理学）, 早稲田大学
+  * 2020年4月 - 2024年3月
+  * 指導教官: 望月維人 教授
+  * 卒業論文: 近藤格子磁性体における光誘起磁気転移の理論研究
 
-Work experience
+職歴
 ======
 * Teaching Assistant ( Fortranプログラミング入門 )
-  * Waseda University
-  * April 2025 - July 2025
+  * 早稲田大学
+  * 2025年4月 - 2025年7月
 
 * Teaching Assistant ( En class: Introduction to C programming )
-  * Waseda University
-  * Ocober 2024 - March 2025
+  * 早稲田大学
+  * 2024年10月 - 2025年3月
 
 * Teaching Assistant ( Cプログラミング入門 )
-  * Waseda University
-  * April 2024 - July 2024
+  * 早稲田大学
+  * 2024年4月 - 2024年7月
 
 * Teaching Assistant ( Cプログラミング )
-  * Waseda University
-  * October 2023 - March 2024
+  * 早稲田大学
+  * 2023年10月 - 2024年2月
 
 * Teaching Assistant ( Cプログラミング入門 )
-  * Waseda University
-  * April 2023 - July 2023
+  * 早稲田大学
+  * 2023年4月 - 2023年7月
 
 * Teaching Assistant ( 物理学ゼミナール )
-  * Waseda University
-  * April 2023 - December 2023
+  * 早稲田大学
+  * 2023年4月 - 2023年3月
 
-* Working part-time as a staff member of [Kumon](https://www.kumon.com/home) ( after school math, Japanese, and English learning program ) from March 2020 ~ .&nbsp; &nbsp;大学１年生から現在まで継続して公文式教室でアルバイトを続けています。
+* 大学１年生から現在まで継続して公文式教室でアルバイトを続けています。
 
-Fellowships
+奨学金
 ======
-* Okamoto Shigeharu $\cdot$ Harue Scholorships（岡本重晴・晴江奨学金）
-  * Waseda University
-  * April 2025 - March 2026
+* 岡本重晴・晴江奨学金
+  * 早稲田大学学内奨学金
+  * 2025年4月 - 2026年3月
 
 
 <!-- Publications
