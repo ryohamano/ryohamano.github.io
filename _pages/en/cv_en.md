@@ -6,7 +6,7 @@ lang: en
 ja_permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /en/resume
 ---
 
 {% include base_path %}
