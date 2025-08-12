@@ -6,7 +6,7 @@ redirect_from:
   - /en/about.html
 permalink: /en/
 lang: en
-ja_permalink: /
+ja_permalink: /about/
 author_profile: true
 ---
 
