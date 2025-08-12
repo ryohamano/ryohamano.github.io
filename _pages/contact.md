@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Email
-Replace [!at!] to @.
+Replace [!aT!] to @.
 
 <i class="fas fa-fw fa-envelope icon-pad-right"></i>{{ site.author.email }}
 
