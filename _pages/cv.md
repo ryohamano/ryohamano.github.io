@@ -4,6 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 lang: ja
+en_permalink: /en/cv/
 redirect_from:
   - /resume
 ---
