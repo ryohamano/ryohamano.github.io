@@ -1,0 +1,29 @@
+{% comment %}
+必須前提：
+- 日本語ページには `lang: ja` と `en_permalink:` を設定
+- 英語ページには `lang: en` と `ja_permalink:` を設定
+- どちらかがない場合のフォールバック：/en + 現在URL、もしくは / へ
+{% endcomment %}
+
+{% assign is_ja = page.lang == 'ja' %}
+{% assign is_en = page.lang == 'en' %}
+
+{% if is_ja %}
+  {% assign target_url = page.en_permalink | default: '/en' | append: page.url %}
+  {% assign label = 'English' %}
+{% elsif is_en %}
+  {% assign target_url = page.ja_permalink | default: page.url | replace_first: '/en', '' %}
+  {% assign label = '日本語' %}
+{% else %}
+  {%- comment -%}
+  lang 指定が無い場合は英語サイト先頭へ
+  {%- endcomment -%}
+  {% assign target_url = '/en/' %}
+  {% assign label = 'English' %}
+{% endif %}
+
+<div class="lang-switcher">
+  <a href="{{ target_url | relative_url }}" class="lang-pill" aria-label="Switch language">
+    <i class="fas fa-globe" aria-hidden="true"></i> {{ label }}
+  </a>
+</div>
