@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /en/cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -14,39 +14,39 @@ Education
 * Bachelor of Science, Waseda University
   * April 2020 - March 2024
   * Director: Prof. Mochizuki
-  * Thesis: 近藤格子磁性体における光誘起磁気転移の理論研究　( Theoretical study of the photo-induced magnetic phase transition in the Kondo lattice magnet )
+  * Thesis: Theoretical study of the photo-induced magnetic phase transition in the Kondo lattice magnet (Japanese)
 
 Work experience
 ======
-* Teaching Assistant ( Fortranプログラミング入門 )
+* Teaching Assistant ( Introduction to Fortran programming  )
   * Waseda University
   * April 2025 - July 2025
 
-* Teaching Assistant ( En class: Introduction to C programming )
+* Teaching Assistant ( Introduction to C programming )
   * Waseda University
   * Ocober 2024 - March 2025
 
-* Teaching Assistant ( Cプログラミング入門 )
+* Teaching Assistant ( Introduction to C programming )
   * Waseda University
   * April 2024 - July 2024
 
-* Teaching Assistant ( Cプログラミング )
+* Teaching Assistant ( C programming )
   * Waseda University
   * October 2023 - March 2024
 
-* Teaching Assistant ( Cプログラミング入門 )
+* Teaching Assistant ( Introduction to C programming )
   * Waseda University
   * April 2023 - July 2023
 
-* Teaching Assistant ( 物理学ゼミナール )
+* Teaching Assistant ( Physics Seminar )
   * Waseda University
   * April 2023 - December 2023
 
-* Working part-time as a staff member of [Kumon](https://www.kumon.com/home) ( after school math, Japanese, and English learning program ) from March 2020 ~ .&nbsp; &nbsp;大学１年生から現在まで継続して公文式教室でアルバイトを続けています。
+* Working part-time as a staff member of [Kumon](https://www.kumon.com/home) ( after school math, Japanese, and English learning program ) from March 2020 ~ .
 
 Fellowships
 ======
-* Okamoto Shigeharu $\cdot$ Harue Scholorships（岡本重晴・晴江奨学金）
+* Okamoto Shigeharu $\cdot$ Harue Scholorships
   * Waseda University
   * April 2025 - March 2026
 
