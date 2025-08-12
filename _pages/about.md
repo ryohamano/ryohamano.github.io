@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "自己紹介"
 author_profile: true
