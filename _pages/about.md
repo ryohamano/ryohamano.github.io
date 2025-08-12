@@ -35,7 +35,7 @@ I aim to uncover the fundamental mechanisms of light-matter interactions that dr
 
 ------
 I will give an oral presentation at the 80th Annual Meeting of the Physical Society of Japan (Hiroshima University).     
-日本物理学会第80回年次大会（広島大学）で口頭発表を行う予定     
+日本物理学会第80回年次大会（広島大学）で口頭発表を行います。        
 Date: 2025/09/18    
 Link: [https://www.jps.or.jp/](https://www.jps.or.jp/)
 
