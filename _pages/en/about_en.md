@@ -1,9 +1,9 @@
 ---
 layout: single
 title: "About me"
-permalink: /en
+permalink: /en/about/
 lang: en
-ja_permalink:
+ja_permalink: /
 author_profile: true
 ---
 
