@@ -4,9 +4,9 @@ title: "About me"
 redirect_from: 
   - /en/about/
   - /en/about.html
-permalink: /en/about/
+permalink: /en/
 lang: en
-ja_permalink: /about/
+ja_permalink: /
 author_profile: true
 ---
 
@@ -17,14 +17,6 @@ My focus includes:
 - Photoinduced magnetic phase transitions
 
 I aim to uncover the fundamental mechanisms of light-matter interactions that drive magnetic ordering and phase transitions in quantum materials.
-
-早稲田大学 先進理工学研究科 物理学及応用物理学専攻 望月研究室 修士２年の濱野 遼宇です． 
-物性理論、特に光誘起磁気現象に興味を持ち研究を行っています。
-
-- 強い光照射下での線形・非線形磁気応答特性
-- 光によって誘起される磁気構造の相転移現象
-
-などに注目し、理論研究に取り組んでいます。
 
 ### Intrests
 -----
@@ -37,20 +29,17 @@ I aim to uncover the fundamental mechanisms of light-matter interactions that dr
 ### Recent Research Activities
 
 ------
-I will give an oral presentation at the 80th Annual Meeting of the Physical Society of Japan (Hiroshima University).     
-日本物理学会第80回年次大会（広島大学）で口頭発表を行います。        
+I will give an oral presentation at the 80th Annual Meeting of the Physical Society of Japan (Hiroshima University).        
 Date: 2025/09/18    
 Link: [https://www.jps.or.jp/](https://www.jps.or.jp/)
 
 ------
-Participation to the 70th Condensed Matter Physics summer school.   
-第70回物性若手夏の学校への参加   
+Participation to the 70th Condensed Matter Physics summer school.     
 Date: 2025/07/29-2025/08/02  
 Link: [https://cmpss.jp/](https://cmpss.jp/)
 
 ------
 Our manuscript has been published in Physical Review B.  
-Physical Review B 誌に投稿論文の掲載が決定しました．  
 
 **<u>R. Hamano</u>** and M. Mochizuki    
 Phys. Rev. B 111, 214409 – Published 4 Jun  
