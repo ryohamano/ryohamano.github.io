@@ -8,7 +8,7 @@
 {% assign is_ja = page.lang == 'ja' %}
 {% assign is_en = page.lang == 'en' %}
 
-{% if is_ja %}
+{% if page.lang == 'ja' %}
   {% assign target_url = page.en_permalink | default: '/en' | append: page.url %}
   {% assign label = 'English' %}
 {% else %}
