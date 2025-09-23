@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive_en-ja-switch
 title: ""
 permalink: /cv/
 author_profile: true
