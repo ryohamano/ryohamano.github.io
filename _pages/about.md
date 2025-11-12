@@ -29,8 +29,13 @@ redirect_from:
 ### Recent Research Activities
 
 ------
-日本物理学会第80回年次大会（広島大学）で口頭発表を行います。        
-日程: 2025/09/18    
+研究会「非平衡固体物性の最前線2025」（東北大学）でポスター発表を行いました。
+日程: 2025/11/10-2025/11/11
+リンク: [https://sites.google.com/view/fnss2025/home](https://sites.google.com/view/fnss2025/home)
+
+------
+日本物理学会第80回年次大会（広島大学）で口頭発表を行いました。        
+日程: 2025/09/16-2025/09/19    
 リンク: [https://www.jps.or.jp/](https://www.jps.or.jp/)
 
 ------ 
@@ -39,12 +44,3 @@ redirect_from:
 リンク: [https://cmpss.jp/](https://cmpss.jp/)
 
 ------ 
-Physical Review B 誌に投稿論文の掲載が決定しました．  
-
-**<u>R. Hamano</u>** and M. Mochizuki    
-Phys. Rev. B 111, 214409 – Published 4 Jun  
-"Photoinduced magnetic phase transitions in the cubic lattice double-exchange model"    
-DOI: [https://doi.org/10.1103/PhysRevB.111.214409](https://doi.org/10.1103/PhysRevB.111.214409),
-
-------
-
