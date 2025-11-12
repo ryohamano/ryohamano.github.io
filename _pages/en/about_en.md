@@ -29,22 +29,19 @@ I aim to uncover the fundamental mechanisms of light-matter interactions that dr
 ### Recent Research Activities
 
 ------
+I gave an poster presentation at "Frontiers of Nonequilibrium Solid States 2025" (Touhoku University).        
+Date: 2025/11/10-2025/11/11   
+Link: [https://sites.google.com/view/fnss2025/home]([https://www.jps.or.jp/](https://sites.google.com/view/fnss2025/home))
+
+------
 I gave an oral presentation at the 80th Annual Meeting of the Physical Society of Japan (Hiroshima University).        
-Date: 2025/09/18    
+Date: 2025/09/16-2025/09/19     
 Link: [https://www.jps.or.jp/](https://www.jps.or.jp/)
 
 ------
 Participation to the 70th Condensed Matter Physics summer school.     
 Date: 2025/07/29-2025/08/02  
 Link: [https://cmpss.jp/](https://cmpss.jp/)
-
-------
-Our manuscript has been published in Physical Review B.  
-
-**<u>R. Hamano</u>** and M. Mochizuki    
-Phys. Rev. B 111, 214409 – Published 4 Jun  
-"Photoinduced magnetic phase transitions in the cubic lattice double-exchange model"    
-DOI: [https://doi.org/10.1103/PhysRevB.111.214409](https://doi.org/10.1103/PhysRevB.111.214409),
 
 ------
 
