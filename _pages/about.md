@@ -29,8 +29,8 @@ redirect_from:
 ### Recent Research Activities
 
 ------
-研究会「非平衡固体物性の最前線2025」（東北大学）でポスター発表を行いました。
-日程: 2025/11/10-2025/11/11
+研究会「非平衡固体物性の最前線2025」（東北大学）でポスター発表を行いました。    
+日程: 2025/11/10-2025/11/11    
 リンク: [https://sites.google.com/view/fnss2025/home](https://sites.google.com/view/fnss2025/home)
 
 ------
