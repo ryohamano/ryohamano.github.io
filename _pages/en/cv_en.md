@@ -48,7 +48,7 @@ Work experience
 
 Fellowships
 ======
-* Okamoto Shigeharu $\cdot$ Harue Scholorships
+* Okamoto Shigeharu, Harue Scholorships
   * Waseda University
   * April 2025 - March 2026
 
