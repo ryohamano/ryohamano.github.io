@@ -29,7 +29,7 @@ I aim to uncover the fundamental mechanisms of light-matter interactions that dr
 ### Recent Research Activities
 
 ------
-I gave an poster presentation at "Frontiers of Nonequilibrium Solid States 2025" (Touhoku University).        
+I gave an poster presentation at "Frontiers of Nonequilibrium Solid States 2025" (Tohoku University).        
 Date: 2025/11/10-2025/11/11   
 Link: [https://sites.google.com/view/fnss2025/home]([https://www.jps.or.jp/](https://sites.google.com/view/fnss2025/home))
 
