@@ -16,7 +16,12 @@ Education
 * Bachelor of Science, Waseda University
   * April 2020 - March 2024
   * Director: Prof. Mochizuki
-  * Thesis: Theoretical study of the photo-induced magnetic phase transition in the Kondo lattice magnet (Japanese)
+  * Thesis: *Theoretical study of the photo-induced magnetic phase transition in the Kondo lattice magnet* (Japanese)
+* Master of Science, Waseda University
+  * April 2024 – March 2026
+  * Advisor: Prof. Masahito Mochizuki
+  * Master's Thesis: *Theoretical Study of Photoinduced Magnetic Transitions in the Double-Exchange Model*  (Japanese)
+
 
 Work experience
 ======
