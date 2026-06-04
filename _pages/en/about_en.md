@@ -10,7 +10,7 @@ redirect_from:
   - /en/about.html
 ---
 
-Hi ! I am a second year Masters student in [Mochizuki group](https://mochizuki.w.waseda.jp/), Department of Pure and Applied Physics, [Graduate School of Advanced Science and Engineering](https://www.ase.sci.waseda.ac.jp/english/departments/), [Waseda University](https://www.waseda.jp/top/en/). I am conducting theoretical research in condensed matter physics, with a particular interest in photoinduced magnetic phenomena.
+Hi ! I am a First-year Ph.D. student in [Mochizuki group](https://mochizuki.w.waseda.jp/), Department of Pure and Applied Physics, [Graduate School of Advanced Science and Engineering](https://www.ase.sci.waseda.ac.jp/english/departments/), [Waseda University](https://www.waseda.jp/top/en/). I am conducting theoretical research in condensed matter physics, with a particular interest in photoinduced magnetic phenomena.
 My focus includes:
 
 - Linear and nonlinear responses under intense light irradiation
@@ -28,20 +28,25 @@ I aim to uncover the fundamental mechanisms of light-matter interactions that dr
 
 ### Recent Research Activities
 
+### Recent Research Activities
+
+---
+Gave a poster presentation at the research meeting of the Transformative Research Area (A) “Chimera Quasiparticle” at Osaka University.     
+Date: May 16–19, 2026     
+Link: [https://chimera-qp.ee.es.osaka-u.ac.jp/event/1519/](https://chimera-qp.ee.es.osaka-u.ac.jp/event/1519/)
+
+---
+
+Received the Master's Thesis Award, Department of Physics and Applied Physics, Graduate School of Advanced Science and Engineering, Waseda University, FY2025.
+Koizumi Award
+March 2026
+
+
 ------
 I gave an poster presentation at "Frontiers of Nonequilibrium Solid States 2025" (Tohoku University).        
 Date: 2025/11/10-2025/11/11   
-Link: [https://sites.google.com/view/fnss2025/home]([https://www.jps.or.jp/](https://sites.google.com/view/fnss2025/home))
+Link: [https://sites.google.com/view/fnss2025/home](https://www.jps.or.jp/](https://sites.google.com/view/fnss2025/home )
 
-------
-I gave an oral presentation at the 80th Annual Meeting of the Physical Society of Japan (Hiroshima University).        
-Date: 2025/09/16-2025/09/19     
-Link: [https://www.jps.or.jp/](https://www.jps.or.jp/)
-
-------
-Participation to the 70th Condensed Matter Physics summer school.     
-Date: 2025/07/29-2025/08/02  
-Link: [https://cmpss.jp/](https://cmpss.jp/)
 
 ------
 
