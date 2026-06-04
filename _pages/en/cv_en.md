@@ -52,6 +52,15 @@ Fellowships
   * Waseda University
   * April 2025 - March 2026
 
+Research Funding
+======
+* Waseda University Early Bird Program, FY2026
+  * April 2026 – March 2027
+
+Awards
+======
+* Master's Thesis Award (Koizumi Award), Department of Physics and Applied Physics, Waseda University, FY2025
+
 
 <!-- Publications
 ======
