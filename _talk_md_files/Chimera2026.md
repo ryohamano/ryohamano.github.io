@@ -8,4 +8,4 @@ date: May 14 2026
 location: "Osaka, Japan"
 ---
 
-[More information here](https://sites.google.com/view/fnss2025/home)
+[More information here](https://chimera-qp.ee.es.osaka-u.ac.jp/event/1519/)
