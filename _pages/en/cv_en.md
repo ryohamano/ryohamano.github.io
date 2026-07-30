@@ -57,6 +57,10 @@ Fellowships
   * Waseda University
   * April 2025 - March 2026
 
+* JASSO Category 1 Scholarship Loan: 50% Repayment Exemption for Particularly Outstanding Achievement
+  * [Japan Student Services Organization](https://www.jasso.go.jp/en/index.html)
+  * April 2024 - March 2026
+
 Research Funding
 ======
 * Waseda University Early Bird Program, FY2026
