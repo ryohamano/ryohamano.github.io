@@ -56,7 +56,9 @@ redirect_from:
   * 早稲田大学学内奨学金
   * 2025年4月 - 2026年3月
 
-* 日本学生支援機構第一種奨学金　半額免除
+* 日本学生支援機構　第一種奨学金　半額免除
+  * 日本学生支援機構
+  * [参考:特に優れた業績による返還免除制度について](https://www.jasso.go.jp/shogakukin/saiyochu/gyosekimenjo/seidogaiyo/index.html)
   * 2024年4月 - 2026年3月
 
 研究費
