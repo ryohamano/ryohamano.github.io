@@ -22,10 +22,10 @@ repository               : "https://github.com/ryohamano"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_scene.jpg"
+  avatar           : "profile_oral_presentation.JPG"
   name             : "Ryo Hamano"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student / Researcher"
+  bio              : "Doctor course student / Researcher"
   group        : "https://mochizuki.w.waseda.jp/"
   employer         : "Waseda University"
   location         : "Tokyo, Japan"
