@@ -29,19 +29,20 @@ redirect_from:
 ### Recent Research Activities
 
 ------
+日本物理学会 2026年度年次大会にて口頭発表を行いました。
+日程: 2026/09/17
+リンク: [https://www.jps.or.jp/activities/meetings/annual/annual-index.php](https://www.jps.or.jp/activities/meetings/annual/annual-index.php)
+
+------
+第81回 物性若手夏の学校にてポスター発表と口頭発表を行いました。
+日程: 2026/08/17-2026/08/21
+リンク: [https://cmpss.jp/](https://cmpss.jp/)
+
+------
 研究会議「学術変革領域研究(A)「キメラ準粒子」（大阪大学）でポスター発表を行いました。     
 日程: 2026/05/16-2026/05/19     
 リンク: [https://chimera-qp.ee.es.osaka-u.ac.jp/event/1519/](https://chimera-qp.ee.es.osaka-u.ac.jp/event/1519/)
 
-
-------
-早稲田大学 物理学及応用物理学専攻 2025年度修士論文賞（小泉賞）を受賞しました。          
-2026年 3月
-
-------
-研究会「非平衡固体物性の最前線2025」（東北大学）でポスター発表を行いました。    
-日程: 2025/11/10-2025/11/11    
-リンク: [https://sites.google.com/view/fnss2025/home](https://sites.google.com/view/fnss2025/home)
 
 ------
 
