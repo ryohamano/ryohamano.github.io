@@ -23,6 +23,25 @@ activity_summary_en: "Gave an oral presentation at the 81st Annual Meeting of th
 
 リストの共通テンプレートは `_includes/research-activities.html`、
 表示やスクロール領域の高さは `_sass/layout/_research-activities.scss` で調整できます。
+`height: 20rem` がリストの高さ、`max-height: 60vh` が画面の高さに対する上限です。
+リスト右側の専用スクロールバーをドラッグするか、枠内でマウスホイール・タッチ操作を
+使うと全件を参照できます。キーボードではリストにTabキーでフォーカスを移してから
+矢印キーやPage Downキーでスクロールできます。
+
+紹介文のリンク先は各Markdownの `permalink` から自動生成されます。
+新しい項目には重複しない `permalink` を付け、詳細ページの内容は同じMarkdownの
+YAML front matterより下に記入してください。発表ページには `talk` レイアウトが
+適用され、題名・開催日・会議名・開催地と本文を表示します。
+
+### GitHub上で変更を公開する
+
+1. 変更を含むPull Requestの **Files changed** で差分を確認します。
+2. Draftの場合は **Ready for review** を押し、**Merge pull request** → **Confirm merge** で `master` に取り込みます。
+3. リポジトリの **Actions** でGitHub Pagesのデプロイ完了を確認してからトップページを再読み込みします。
+4. 古い見た目が残る場合は、強制再読み込み（Windows/Linux: Ctrl+Shift+R、Mac: Cmd+Shift+R）を試してください。
+
+今後は各Markdownの `activity_summary`（日本語）と `activity_summary_en`（英語）を
+GitHubの編集ボタンから更新してコミットすれば、次のビルド時に紹介文も更新されます。
 
 ## Initial setup
 

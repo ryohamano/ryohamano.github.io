@@ -291,10 +291,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-   #_talks
+  # _talk_md_files
   - scope:
       path: ""
-      type: talks
+      type: talk_md_files
     values:
       layout: talk
       author_profile: true
