@@ -29,13 +29,13 @@ redirect_from:
 ### Recent Research Activities
 
 ------
-日本物理学会 2026年度年次大会にて口頭発表を行いました。
-日程: 2026/09/17
+日本物理学会 2026年度年次大会にて口頭発表を行いました。     
+日程: 2026/09/17     
 リンク: [https://www.jps.or.jp/activities/meetings/annual/annual-index.php](https://www.jps.or.jp/activities/meetings/annual/annual-index.php)
 
 ------
-第81回 物性若手夏の学校にてポスター発表と口頭発表を行いました。
-日程: 2026/08/17-2026/08/21
+第81回 物性若手夏の学校にてポスター発表と口頭発表を行いました。    
+日程: 2026/08/17-2026/08/21    
 リンク: [https://cmpss.jp/](https://cmpss.jp/)
 
 ------
