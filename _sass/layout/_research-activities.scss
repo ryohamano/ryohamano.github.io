@@ -1,17 +1,40 @@
 /* Scrollable research updates shared by the Japanese and English home pages. */
 .research-activities {
   &__scroll {
-    max-height: 24rem;
-    overflow-y: auto;
+    height: 20rem;
+    max-height: 60vh;
+    overflow-y: scroll;
+    overscroll-behavior-y: contain;
     padding: 0 1em;
     border: 1px solid var(--global-border-color);
     border-radius: $border-radius;
     scrollbar-gutter: stable;
+    scrollbar-color: var(--global-text-color-light) var(--global-footer-bg-color);
+
+    /* Keep a distinct track and draggable thumb in WebKit browsers, too. */
+    &::-webkit-scrollbar {
+      width: 14px;
+    }
+
+    &::-webkit-scrollbar-track {
+      background: var(--global-footer-bg-color);
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: var(--global-text-color-light);
+      border: 3px solid var(--global-footer-bg-color);
+      border-radius: 7px;
+    }
 
     &:focus-visible {
       outline: 2px solid var(--global-link-color);
       outline-offset: 3px;
     }
+  }
+
+  .research-activities__help {
+    margin: 0 0 0.75em;
+    font-size: 0.8em;
   }
 
   .research-activities__list {
@@ -41,6 +64,11 @@
     margin: 0;
     font-size: 0.9em;
     line-height: 1.7;
+
+    a:focus-visible {
+      outline: 2px solid var(--global-link-color);
+      outline-offset: 2px;
+    }
   }
 
   .research-activities__archives {
@@ -51,7 +79,12 @@
 
 @media print {
   .research-activities__scroll {
+    height: auto;
     max-height: none;
     overflow: visible;
+  }
+
+  .research-activities__help {
+    display: none;
   }
 }

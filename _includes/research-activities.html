@@ -8,7 +8,8 @@
 {% endif %}
 <section class="research-activities" aria-labelledby="research-activities-heading">
   <h3 id="research-activities-heading">{{ activity_heading }}</h3>
-  <div class="research-activities__scroll" role="region" aria-labelledby="research-activities-heading" tabindex="0">
+  <p id="research-activities-help" class="research-activities__help">{% if page.lang == 'en' %}Scroll within the list to see all activities. Select an entry for details.{% else %}枠内をスクロールすると、すべての研究活動を確認できます。各項目から詳細ページへ移動できます。{% endif %}</p>
+  <div class="research-activities__scroll" role="region" aria-labelledby="research-activities-heading" aria-describedby="research-activities-help" tabindex="0">
     <ol class="research-activities__list" role="list">
       {% for activity in activities %}
         {% assign summary = activity.activity_summary %}
@@ -20,7 +21,7 @@
             <p class="research-activities__date">
               <time datetime="{{ activity.date | date: '%Y-%m-%d' }}">{{ activity.date | date: activity_date_format }}</time>{% if activity.end_date %}<span aria-hidden="true"> – </span><time datetime="{{ activity.end_date | date: '%Y-%m-%d' }}">{{ activity.end_date | date: activity_date_format }}</time>{% endif %}
             </p>
-            <p class="research-activities__summary">{{ summary | escape }}</p>
+            <p class="research-activities__summary"><a href="{{ activity.url | relative_url }}">{{ summary | escape }}</a></p>
           </li>
         {% endif %}
       {% endfor %}

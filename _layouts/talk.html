@@ -33,9 +33,11 @@ layout: default
         {% if page.modified %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.end_date %} – <time datetime="{{ page.end_date | date: '%Y-%m-%d' }}">{{ page.end_date | date: "%B %d, %Y" }}</time>{% endif %}</p>
         {% endif %}
-        {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
+        {% if page.venue %}
+          <p>{% if page.talk_type %}{{ page.talk_type | escape }} at {% elsif page.category %}{{ site.talk_category[page.category].title | escape }}: {% endif %}{{ page.venue | escape }}{% if page.location %}, {{ page.location | escape }}{% endif %}</p>
+        {% endif %}
 
         </header>
       {% endunless %}
