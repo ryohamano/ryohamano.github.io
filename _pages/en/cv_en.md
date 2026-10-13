@@ -65,6 +65,8 @@ Research Funding
 ======
 * Waseda University Early Bird Program, FY2026
   * April 2026 – March 2027
+* Waseda University Open Innovation Ecosystem W-SPRING
+  * October 2026 - March 2029
 
 Awards
 ======
