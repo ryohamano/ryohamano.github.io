@@ -5,6 +5,8 @@ category: "oral"
 permalink: /talk_md_files/JPSJ2025Autumn
 venue: "日本物理学会第80回年次大会"
 date: September 18 2025
+activity_summary: "日本物理学会第80回年次大会にて口頭発表を行いました。"
+activity_summary_en: "Gave an oral presentation at the 80th Annual Meeting of the Physical Society of Japan."
 location: "Hiroshima, Japan"
 ---
 

@@ -5,6 +5,8 @@ category: "oral"
 permalink: /talk_md_files/JPS2024fall
 venue: "日本物理学会 第79回年次大会（2024年）"
 date: September 16 2024
+activity_summary: "日本物理学会第79回年次大会（2024年）にて口頭発表を行いました。"
+activity_summary_en: "Gave an oral presentation at the 79th Annual Meeting of the Physical Society of Japan (2024)."
 location: "Hokkaido University, Japan"
 ---
 

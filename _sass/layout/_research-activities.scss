@@ -1,0 +1,57 @@
+/* Scrollable research updates shared by the Japanese and English home pages. */
+.research-activities {
+  &__scroll {
+    max-height: 24rem;
+    overflow-y: auto;
+    padding: 0 1em;
+    border: 1px solid var(--global-border-color);
+    border-radius: $border-radius;
+    scrollbar-gutter: stable;
+
+    &:focus-visible {
+      outline: 2px solid var(--global-link-color);
+      outline-offset: 3px;
+    }
+  }
+
+  .research-activities__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  &__item {
+    margin: 0;
+    padding: 1em 0;
+    border-bottom: 1px solid var(--global-border-color);
+    overflow-wrap: anywhere;
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+
+  .research-activities__date {
+    margin: 0 0 0.35em;
+    font-size: 0.85em;
+    font-weight: bold;
+  }
+
+  .research-activities__summary {
+    margin: 0;
+    font-size: 0.9em;
+    line-height: 1.7;
+  }
+
+  .research-activities__archives {
+    margin: 0.75em 0 0;
+    font-size: 0.85em;
+  }
+}
+
+@media print {
+  .research-activities__scroll {
+    max-height: none;
+    overflow: visible;
+  }
+}

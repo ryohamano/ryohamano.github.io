@@ -26,23 +26,5 @@ redirect_from:
 - 非平衡応答
 
 
-### Recent Research Activities
-
-------
-日本物理学会 2026年度年次大会にて口頭発表を行いました。     
-日程: 2026/09/17     
-リンク: [https://www.jps.or.jp/activities/meetings/annual/annual-index.php](https://www.jps.or.jp/activities/meetings/annual/annual-index.php)
-
-------
-第81回 物性若手夏の学校にてポスター発表と口頭発表を行いました。    
-日程: 2026/08/17-2026/08/21    
-リンク: [https://cmpss.jp/](https://cmpss.jp/)
-
-------
-研究会議「学術変革領域研究(A)「キメラ準粒子」（大阪大学）でポスター発表を行いました。     
-日程: 2026/05/16-2026/05/19     
-リンク: [https://chimera-qp.ee.es.osaka-u.ac.jp/event/1519/](https://chimera-qp.ee.es.osaka-u.ac.jp/event/1519/)
-
-
-------
+{% include research-activities.html %}
 

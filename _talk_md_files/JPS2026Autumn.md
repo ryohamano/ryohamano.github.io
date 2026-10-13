@@ -5,6 +5,8 @@ category: "oral"
 permalink: /talk_md_files/JPSJ2026Autumn
 venue: "日本物理学会第81回年次大会"
 date: September 17 2026
+activity_summary: "日本物理学会第81回年次大会（2026年）にて口頭発表を行いました。"
+activity_summary_en: "Gave an oral presentation at the 81st Annual Meeting of the Physical Society of Japan (2026)."
 location: "Tokyo, Japan"
 ---
 

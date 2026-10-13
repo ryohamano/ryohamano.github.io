@@ -5,6 +5,27 @@
 
 # Getting Started
 
+## トップページの研究活動リストを更新する
+
+`_publication_md_files/` または `_talk_md_files/` の各Markdownの先頭にある
+YAML front matterに、日付と短い紹介文を記入します。
+
+```yaml
+date: 2026-09-17
+activity_summary: "日本物理学会第81回年次大会（2026年）にて口頭発表を行いました。"
+activity_summary_en: "Gave an oral presentation at the 81st Annual Meeting of the Physical Society of Japan (2026)."
+```
+
+複数日にわたる活動は `date` に開始日、任意の `end_date` に終了日を
+`YYYY-MM-DD` 形式で記入します。日本語・英語のトップページには、論文と発表を
+まとめて日付の新しい順に表示します。紹介文がない項目は表示せず、英訳がない場合は
+日本語の紹介文を表示します。トップページのリスト自体を手作業で更新する必要はありません。
+
+リストの共通テンプレートは `_includes/research-activities.html`、
+表示やスクロール領域の高さは `_sass/layout/_research-activities.scss` で調整できます。
+
+## Initial setup
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
 1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
