@@ -31,21 +31,19 @@ I aim to uncover the fundamental mechanisms of light-matter interactions that dr
 ### Recent Research Activities
 
 ---
+Gave an oral presentation at the 2026 annual meeting of the Japanese Physics Society at Tokyo, Japan.
+Date: September 17, 2026
+Link: [https://www.jps.or.jp/english/](https://www.jps.or.jp/english/)
+
+---
+Gave a poster & oral presentation at the Condensed Matter Physics Summer School 2026 at Kumamoto, Japan.
+Date: August 17-21, 2026
+Link: [https://cmpss.jp/](https://cmpss.jp/)
+
+---
 Gave a poster presentation at the research meeting of the Transformative Research Area (A) “Chimera Quasiparticle” at Osaka University.     
 Date: May 16–19, 2026     
 Link: [https://chimera-qp.ee.es.osaka-u.ac.jp/event/1519/](https://chimera-qp.ee.es.osaka-u.ac.jp/event/1519/)
-
----
-
-Received the Master's Thesis Award, Department of Physics and Applied Physics, Graduate School of Advanced Science and Engineering, Waseda University, FY2025.
-Koizumi Award
-March 2026
-
-
-------
-I gave an poster presentation at "Frontiers of Nonequilibrium Solid States 2025" (Tohoku University).        
-Date: 2025/11/10-2025/11/11   
-Link: [https://sites.google.com/view/fnss2025/home](https://www.jps.or.jp/](https://sites.google.com/view/fnss2025/home )
 
 
 ------
