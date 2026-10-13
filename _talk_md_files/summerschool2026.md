@@ -4,7 +4,10 @@ collection: talk_md_files
 category: "poster"
 permalink: /talk_md_files/summerschool2026
 venue: "第71回物性若手夏の学校"
-date: August 17-21 2026
+date: 2026-08-17
+end_date: 2026-08-21
+activity_summary: "第71回物性若手夏の学校にて口頭発表とポスター発表を行いました。"
+activity_summary_en: "Gave oral and poster presentations at the 71st Condensed Matter Physics Summer School."
 location: "Kumammoto, Japan"
 ---
 

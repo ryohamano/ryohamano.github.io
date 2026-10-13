@@ -1,0 +1,34 @@
+{% assign activities = site.publication_md_files | concat: site.talk_md_files | sort: 'date' | reverse %}
+{% if page.lang == 'en' %}
+  {% assign activity_heading = 'Recent Research Activities' %}
+  {% assign activity_date_format = '%B %-d, %Y' %}
+{% else %}
+  {% assign activity_heading = '研究活動' %}
+  {% assign activity_date_format = '%Y年%-m月%-d日' %}
+{% endif %}
+<section class="research-activities" aria-labelledby="research-activities-heading">
+  <h3 id="research-activities-heading">{{ activity_heading }}</h3>
+  <div class="research-activities__scroll" role="region" aria-labelledby="research-activities-heading" tabindex="0">
+    <ol class="research-activities__list" role="list">
+      {% for activity in activities %}
+        {% assign summary = activity.activity_summary %}
+        {% if page.lang == 'en' %}
+          {% assign summary = activity.activity_summary_en | default: activity.activity_summary %}
+        {% endif %}
+        {% if summary and summary != empty %}
+          <li class="research-activities__item">
+            <p class="research-activities__date">
+              <time datetime="{{ activity.date | date: '%Y-%m-%d' }}">{{ activity.date | date: activity_date_format }}</time>{% if activity.end_date %}<span aria-hidden="true"> – </span><time datetime="{{ activity.end_date | date: '%Y-%m-%d' }}">{{ activity.end_date | date: activity_date_format }}</time>{% endif %}
+            </p>
+            <p class="research-activities__summary">{{ summary | escape }}</p>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ol>
+  </div>
+  <p class="research-activities__archives">
+    <a href="{{ '/publications/' | relative_url }}">{% if page.lang == 'en' %}All publications{% else %}論文一覧{% endif %}</a>
+    <span aria-hidden="true"> / </span>
+    <a href="{{ '/talks/' | relative_url }}">{% if page.lang == 'en' %}All presentations{% else %}発表一覧{% endif %}</a>
+  </p>
+</section>

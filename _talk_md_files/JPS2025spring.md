@@ -5,6 +5,8 @@ category: "oral"
 permalink: /talk_md_files/JPS2025spring
 venue: "日本物理学会 2025年春季大会"
 date: March 18 2025
+activity_summary: "日本物理学会2025年春季大会にて口頭発表を行いました。"
+activity_summary_en: "Gave an oral presentation at the 2025 Spring Meeting of the Physical Society of Japan."
 location: "Online"
 ---
 

@@ -5,6 +5,8 @@ category: "poster"
 permalink: /talk_md_files/summerschool2025
 venue: "第70回物性若手夏の学校"
 date: August 2 2025
+activity_summary: "第70回物性若手夏の学校にてポスター発表を行いました。"
+activity_summary_en: "Gave a poster presentation at the 70th Condensed Matter Physics Summer School."
 location: "Shiga, Japan"
 ---
 
